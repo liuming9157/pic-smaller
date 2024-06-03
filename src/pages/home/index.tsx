@@ -67,7 +67,7 @@ const Home = observer(() => {
           <Typography.Link
             className={style.github}
             target="_blank"
-            href="https://github.com/joye61/pic-smaller"
+            href="https://github.com/liuming9157/pic-smaller"
           >
             <GithubOutlined />
           </Typography.Link>

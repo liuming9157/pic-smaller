@@ -14,9 +14,8 @@
 
 ## Usage
 
-Pic smaller has been deployed to [`vercel`](https://vercel.com/), you can use it by visiting the URL [pic-smaller.vercel.app](https://pic-smaller.vercel.app). Due to the GFW, Chinese users can use it by visiting the URL [picsmaller.com](https://picsmaller.com/)
+Pic smaller has been deployed to [`vercel`](https://vercel.com/), you can use it by visiting the URL [tinypic.55ai.online](https://tinypic.55ai.online).
 
-> [picsmaller.com](https://picsmaller.com/) is a new domain that has just been applied for. The old domain [txx.cssrefs.com](https://txx.cssrefs.com/) is still accessible, but will be expired on `2025-02-22` and payment will not continue. Please use the latest domain to access the service.
 
 ## Develop
 
@@ -24,7 +23,7 @@ Pic smaller a [Vite](https://vitejs.dev/) + [React](https://react.dev/) project,
 
 ```bash
 # Clone the repo
-git clone https://github.com/joye61/pic-smaller.git
+git clone https://github.com/liuming9157/pic-smaller.git
 
 # Change cwd
 cd ./pic-smaller
